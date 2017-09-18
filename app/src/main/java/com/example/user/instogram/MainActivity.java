@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnlogin;
     TextView textViewOptional;
 
+    TextView baru;
+
     String status = "login";
 
     @Override
