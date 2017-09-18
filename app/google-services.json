@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63174910831",
+    "firebase_url": "https://instogram-5f2f2.firebaseio.com",
+    "project_id": "instogram-5f2f2",
+    "storage_bucket": "instogram-5f2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63174910831:android:c9c49c68e036dcb0",
+        "android_client_info": {
+          "package_name": "com.example.user.instogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63174910831-s1o38mb9skpjci6hn965fotr1ti7etg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.instogram",
+            "certificate_hash": "7ff3ad7cd3d2bd90695dff73076f1b6891c4c2fe"
+          }
+        },
+        {
+          "client_id": "63174910831-bpc5mf1a9esoe10444lp5d4mhd4sm84f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-0vQwqwfggjcS_ZkIJmVzgMCWeYvhDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63174910831-bpc5mf1a9esoe10444lp5d4mhd4sm84f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
